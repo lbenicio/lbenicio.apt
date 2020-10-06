@@ -1,0 +1,11 @@
+{
+    "name": "lbenicio apt repository",
+    "description": "learing projects... do not use it",
+    "tint": "#DE891F",
+    "cname": "apt.lbenicio.dev",
+    "maintainer": {
+        "name": "leo",
+        "email": "developer@lbenicio.dev"
+    },
+    "automatic_git": "true"
+}
