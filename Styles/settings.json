@@ -1,6 +1,6 @@
 {
     "name": "lbenicio apt repository",
-    "description": "learing projects... do not use it",
+    "description": "learning stuff",
     "tint": "#DE891F",
     "cname": "apt.lbenicio.dev",
     "maintainer": {

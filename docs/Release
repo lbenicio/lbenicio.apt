@@ -1,0 +1,12 @@
+Origin: lbenicio apt repository
+Label: lbenicio apt repository
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: learning stuff
+
+SHA256:
+ 04384012fe3e9f816d565468d358f791b23c4d0a1e44b6032be364dd583e62e1 594 Packages.bz2
+ 720f2c05bbf69fd08c4a91e9520fb863298acbc52b2119f9495360e700e6ed24 592 Packages.xz
